@@ -1,5 +1,14 @@
-### Hi there 👋
+### Olá! Meu nome é Ariel. 👋
+### Sou Desenvolvedora BackEnd e sou fascinada pelo mundo da Tecnologia!
 
+##Techs:
+
+ - JavaScript
+ - NodeJS
+ - API Rest
+ - Python
+
+- ⚡ Fun fact: Sou gamer e moro de favor na casa de duas gatas.
 <!--
 **arielsena27/arielsena27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
